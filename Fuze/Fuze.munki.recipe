@@ -19,7 +19,7 @@
                 <string>testing</string>
             </array>
             <key>description</key>
-            <string>Local app for www.fuzebox.com service</string>
+            <string>Local app for www.fuze.com service, for screen sharing and videoconferencing.</string>
             <key>display_name</key>
             <string>Fuzemeeting</string>
             <key>name</key>
